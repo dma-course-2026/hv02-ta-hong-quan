@@ -1,6 +1,6 @@
 # Git Advanced Homework
 
-Student: <HV02> - <Tạ Hồng Quân>
+Student: HV02 - Tạ Hồng Quân
 
 ## Goal
 
