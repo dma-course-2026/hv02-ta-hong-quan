@@ -1,7 +1,8 @@
 # Git Advanced Homework
 
-Student: <HV02> - <Tạ Hồng Quân>
+Student: HV02 - Tạ Hồng Quân
 
 ## Goal
 
-Practice feature branch workflow and pull request.
+Practice Feature Branch Workflow and Pull Request.
+
