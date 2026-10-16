@@ -1,0 +1,5 @@
+name=input("Your name: ")
+age=int(input("Your age: "))
+print("Tên tôi là", name,end='-')
+print(age, "tuổi.")
+print("Tên tôi là", name + "-", age, "tuổi.")
